@@ -1,4 +1,5 @@
 /**
+ * 设置画布以及雨滴的一些反弹碰撞属性
  * @param canvasid 画布id
  * @param sourceid 背景图片id
  * @param width 渲染的宽度
